@@ -3,7 +3,7 @@
 
 # Happy Color
 
-This app randomnly selects and display a color as well as the rgb for the color. 
+Each time you click change color, this app will randomnly select and display a color as well as the rgb for the color. 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/40554384/151557557-e372e20e-d1cc-4668-9fb7-c6d847af9805.png)
 ![image](https://user-images.githubusercontent.com/40554384/151557786-3398cafb-5a98-485c-9cc1-c31bf38cd774.png)
